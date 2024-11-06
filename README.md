@@ -5,7 +5,7 @@ This is a uservice project from Turing Research Team.
 First, run the development server:
 
 ```bash
-npm run dev -- -p 2000
+npm install && npm run dev -- -p 2000
 # or
 yarn dev -p 2000
 ```
